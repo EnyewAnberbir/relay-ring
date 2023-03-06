@@ -1,0 +1,10 @@
+language: rust
+fuzzing_engines:
+  - libfuzzer
+sanitizers:
+  - address
+fuzz_targets:
+  - stream_fuzzer
+  - state_fuzzer
+  - recovery_fuzzer
+  - journal_fuzzer
