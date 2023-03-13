@@ -24,3 +24,4 @@ impl Outcome {
     pub fn is_clean(&self) -> bool { self.ok && self.severity == 0 }
 }
 
+pub mod rr_0001_wire_format_rlrg_frames;
