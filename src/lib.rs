@@ -8,3 +8,6 @@ pub mod runtime { pub mod sequencer; pub mod shipper; pub mod indexer; pub mod r
 pub mod wire { pub mod frame; pub mod decode; pub mod encode; pub mod validate; }
 pub mod telemetry { pub mod journal_report; }
 pub mod config { pub mod hot_ring; pub mod cold_archive; pub mod otlp_batch; pub mod agent_edge; pub mod compact_lazy; pub mod fsync_strict; pub mod registry; }
+
+// capabilities subsystem (project extension)
+pub mod capabilities;

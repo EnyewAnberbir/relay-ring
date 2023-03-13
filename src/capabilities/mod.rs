@@ -1,0 +1,26 @@
+//! Capability modules extending `relayring` (see `docs/CAPABILITIES.md`).
+//!
+//! Each file implements one backlog item as a small, self-contained profile over
+//! byte buffers. Callers use [`evaluate`] or the module-local scanner/engine type.
+
+/// Unified evaluation outcome returned by capability modules.
+#[derive(Clone, Copy, Debug, PartialEq, Eq)]
+pub struct Outcome {
+    pub ok: bool,
+    pub consumed: usize,
+    pub findings: usize,
+    pub checksum: u32,
+    pub severity: u8,
+}
+
+/// Errors surfaced by capability modules.
+#[derive(Clone, Copy, Debug, PartialEq, Eq)]
+pub enum ProfileError {
+    EmptyInput,
+    Truncated { at: usize },
+}
+
+impl Outcome {
+    pub fn is_clean(&self) -> bool { self.ok && self.severity == 0 }
+}
+
