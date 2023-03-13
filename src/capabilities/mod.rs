@@ -27,3 +27,4 @@ impl Outcome {
 pub mod rr_0001_wire_format_rlrg_frames;
 pub mod rr_0002_wire_format_rlrg_frames;
 pub mod rr_0003_wire_format_rlrg_frames;
+pub mod rr_0004_wire_format_rlrg_frames;
