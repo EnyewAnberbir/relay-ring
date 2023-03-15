@@ -47,3 +47,4 @@ pub mod rr_0020_wire_format_rlrg_frames;
 pub mod rr_0021_wire_format_rlrg_frames;
 pub mod rr_0022_wire_format_rlrg_frames;
 pub mod rr_0023_wire_format_rlrg_frames;
+pub mod rr_0024_wire_format_rlrg_frames;
