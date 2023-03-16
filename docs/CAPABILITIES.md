@@ -4,3 +4,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 
 - RR-0001: Wire format RLRG frames extend codec v1 (src)
 - RR-0013: Wire format RLRG frames wire planner v13 (src)
+- RR-0025: Wire format RLRG frames validate resolver v25 (src)
