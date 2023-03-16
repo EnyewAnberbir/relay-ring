@@ -53,3 +53,4 @@ pub mod rr_0026_ring_buffer_core_extend;
 pub mod rr_0027_ring_buffer_core_harden;
 pub mod rr_0028_ring_buffer_core_wire_pl;
 pub mod rr_0029_ring_buffer_core_optimiz;
+pub mod rr_0030_ring_buffer_core_validat;
