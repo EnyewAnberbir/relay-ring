@@ -51,3 +51,4 @@ pub mod rr_0024_wire_format_rlrg_frames;
 pub mod rr_0025_wire_format_rlrg_frames;
 pub mod rr_0026_ring_buffer_core_extend;
 pub mod rr_0027_ring_buffer_core_harden;
+pub mod rr_0028_ring_buffer_core_wire_pl;
