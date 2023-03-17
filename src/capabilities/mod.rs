@@ -61,3 +61,4 @@ pub mod rr_0034_ring_buffer_core_benchma;
 pub mod rr_0035_ring_buffer_core_impleme;
 pub mod rr_0036_ring_buffer_core_extend;
 pub mod rr_0037_ring_buffer_core_harden;
+pub mod rr_0038_ring_buffer_core_wire_pl;
