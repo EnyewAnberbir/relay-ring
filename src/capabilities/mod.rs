@@ -55,3 +55,4 @@ pub mod rr_0028_ring_buffer_core_wire_pl;
 pub mod rr_0029_ring_buffer_core_optimiz;
 pub mod rr_0030_ring_buffer_core_validat;
 pub mod rr_0031_ring_buffer_core_export;
+pub mod rr_0032_ring_buffer_core_integra;
