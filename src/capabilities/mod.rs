@@ -64,3 +64,4 @@ pub mod rr_0037_ring_buffer_core_harden;
 pub mod rr_0038_ring_buffer_core_wire_pl;
 pub mod rr_0039_ring_buffer_core_optimiz;
 pub mod rr_0040_ring_buffer_core_validat;
+pub mod rr_0041_ring_buffer_core_export;
