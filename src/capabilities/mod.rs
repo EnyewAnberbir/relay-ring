@@ -60,3 +60,4 @@ pub mod rr_0033_ring_buffer_core_refacto;
 pub mod rr_0034_ring_buffer_core_benchma;
 pub mod rr_0035_ring_buffer_core_impleme;
 pub mod rr_0036_ring_buffer_core_extend;
+pub mod rr_0037_ring_buffer_core_harden;
