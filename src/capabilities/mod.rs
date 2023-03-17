@@ -57,3 +57,4 @@ pub mod rr_0030_ring_buffer_core_validat;
 pub mod rr_0031_ring_buffer_core_export;
 pub mod rr_0032_ring_buffer_core_integra;
 pub mod rr_0033_ring_buffer_core_refacto;
+pub mod rr_0034_ring_buffer_core_benchma;
