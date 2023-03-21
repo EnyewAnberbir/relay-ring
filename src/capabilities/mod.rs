@@ -85,3 +85,4 @@ pub mod rr_0058_ring_buffer_core_wire_pl;
 pub mod rr_0059_ring_buffer_core_optimiz;
 pub mod rr_0060_ring_buffer_core_validat;
 pub mod rr_0061_ring_scan_lattice_module;
+pub mod rr_0062_ring_scan_lattice_module;
