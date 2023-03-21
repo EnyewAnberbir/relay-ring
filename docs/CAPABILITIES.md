@@ -7,3 +7,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0025: Wire format RLRG frames validate resolver v25 (src)
 - RR-0037: Ring buffer core harden index v12 (src)
 - RR-0049: Ring buffer core optimize registry v24 (src)
+- RR-0061: Ring scan lattice modules extend codec v1 (src)
