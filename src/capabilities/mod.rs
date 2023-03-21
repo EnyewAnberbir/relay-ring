@@ -82,3 +82,4 @@ pub mod rr_0055_ring_buffer_core_impleme;
 pub mod rr_0056_ring_buffer_core_extend;
 pub mod rr_0057_ring_buffer_core_harden;
 pub mod rr_0058_ring_buffer_core_wire_pl;
+pub mod rr_0059_ring_buffer_core_optimiz;
