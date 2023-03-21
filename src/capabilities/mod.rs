@@ -78,3 +78,4 @@ pub mod rr_0051_ring_buffer_core_export;
 pub mod rr_0052_ring_buffer_core_integra;
 pub mod rr_0053_ring_buffer_core_refacto;
 pub mod rr_0054_ring_buffer_core_benchma;
+pub mod rr_0055_ring_buffer_core_impleme;
