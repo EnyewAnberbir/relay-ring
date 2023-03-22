@@ -8,3 +8,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0037: Ring buffer core harden index v12 (src)
 - RR-0049: Ring buffer core optimize registry v24 (src)
 - RR-0061: Ring scan lattice modules extend codec v1 (src)
+- RR-0073: Ring scan lattice modules wire planner v13 (src)
