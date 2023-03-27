@@ -123,3 +123,4 @@ pub mod rr_0096_ring_scan_lattice_module;
 pub mod rr_0097_ring_scan_lattice_module;
 pub mod rr_0098_ring_scan_lattice_module;
 pub mod rr_0099_ring_scan_lattice_module;
+pub mod rr_0100_ring_scan_lattice_module;
