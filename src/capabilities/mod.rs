@@ -171,3 +171,4 @@ pub mod rr_0144_ring_scan_lattice_module;
 pub mod rr_0145_ring_scan_lattice_module;
 pub mod rr_0146_ring_batch_relay_helpers;
 pub mod rr_0147_ring_batch_relay_helpers;
+pub mod rr_0148_ring_batch_relay_helpers;
