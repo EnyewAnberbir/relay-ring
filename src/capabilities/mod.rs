@@ -175,3 +175,4 @@ pub mod rr_0148_ring_batch_relay_helpers;
 pub mod rr_0149_ring_batch_relay_helpers;
 pub mod rr_0150_ring_batch_relay_helpers;
 pub mod rr_0151_ring_batch_relay_helpers;
+pub mod rr_0152_ring_batch_relay_helpers;
