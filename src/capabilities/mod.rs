@@ -202,3 +202,4 @@ pub mod rr_0175_ring_batch_relay_helpers;
 pub mod rr_0176_journal_append_seal_exte;
 pub mod rr_0177_journal_append_seal_hard;
 pub mod rr_0178_journal_append_seal_wire;
+pub mod rr_0179_journal_append_seal_opti;
