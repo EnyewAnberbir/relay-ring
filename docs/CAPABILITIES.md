@@ -17,3 +17,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0145: Ring scan lattice modules validate resolver v85 (src)
 - RR-0157: Ring batch relay helpers harden index v12 (src)
 - RR-0169: Ring batch relay helpers optimize registry v24 (src)
+- RR-0181: Journal append seal export adapter v6 (src)
