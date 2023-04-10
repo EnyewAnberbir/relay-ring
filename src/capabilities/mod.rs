@@ -207,3 +207,4 @@ pub mod rr_0180_journal_append_seal_vali;
 pub mod rr_0181_journal_append_seal_expo;
 pub mod rr_0182_journal_append_seal_inte;
 pub mod rr_0183_journal_append_seal_refa;
+pub mod rr_0184_journal_append_seal_benc;
