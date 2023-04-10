@@ -215,3 +215,4 @@ pub mod rr_0188_journal_append_seal_wire;
 pub mod rr_0189_journal_append_seal_opti;
 pub mod rr_0190_journal_append_seal_vali;
 pub mod rr_0191_journal_append_seal_expo;
+pub mod rr_0192_journal_append_seal_inte;
