@@ -228,3 +228,4 @@ pub mod rr_0201_journal_append_seal_expo;
 pub mod rr_0202_journal_append_seal_inte;
 pub mod rr_0203_journal_append_seal_refa;
 pub mod rr_0204_journal_append_seal_benc;
+pub mod rr_0205_journal_append_seal_impl;
