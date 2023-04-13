@@ -240,3 +240,4 @@ pub mod rr_0213_journal_append_seal_refa;
 pub mod rr_0214_journal_append_seal_benc;
 pub mod rr_0215_journal_append_seal_impl;
 pub mod rr_0216_journal_index_compaction;
+pub mod rr_0217_journal_index_compaction;
