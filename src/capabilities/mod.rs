@@ -242,3 +242,4 @@ pub mod rr_0215_journal_append_seal_impl;
 pub mod rr_0216_journal_index_compaction;
 pub mod rr_0217_journal_index_compaction;
 pub mod rr_0218_journal_index_compaction;
+pub mod rr_0219_journal_index_compaction;
