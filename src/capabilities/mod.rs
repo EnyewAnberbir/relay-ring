@@ -254,3 +254,4 @@ pub mod rr_0227_journal_index_compaction;
 pub mod rr_0228_journal_index_compaction;
 pub mod rr_0229_journal_index_compaction;
 pub mod rr_0230_journal_index_compaction;
+pub mod rr_0231_journal_index_compaction;
