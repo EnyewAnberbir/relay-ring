@@ -21,3 +21,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0193: Journal append seal refactor mutator v18 (src)
 - RR-0205: Journal append seal implement pipeline v30 (src)
 - RR-0217: Journal index compaction harden index v2 (src)
+- RR-0229: Journal index compaction optimize registry v14 (src)
