@@ -270,3 +270,4 @@ pub mod rr_0243_journal_index_compaction;
 pub mod rr_0244_journal_index_compaction;
 pub mod rr_0245_journal_index_compaction;
 pub mod rr_0246_journal_index_compaction;
+pub mod rr_0247_journal_index_compaction;
