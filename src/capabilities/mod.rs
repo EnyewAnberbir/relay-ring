@@ -276,3 +276,4 @@ pub mod rr_0249_journal_index_compaction;
 pub mod rr_0250_journal_index_compaction;
 pub mod rr_0251_journal_otlp_bridge_exte;
 pub mod rr_0252_journal_otlp_bridge_hard;
+pub mod rr_0253_journal_otlp_bridge_wire;
