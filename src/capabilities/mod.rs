@@ -282,3 +282,4 @@ pub mod rr_0255_journal_otlp_bridge_vali;
 pub mod rr_0256_journal_otlp_bridge_expo;
 pub mod rr_0257_journal_otlp_bridge_inte;
 pub mod rr_0258_journal_otlp_bridge_refa;
+pub mod rr_0259_journal_otlp_bridge_benc;
