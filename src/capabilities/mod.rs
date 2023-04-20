@@ -279,3 +279,4 @@ pub mod rr_0252_journal_otlp_bridge_hard;
 pub mod rr_0253_journal_otlp_bridge_wire;
 pub mod rr_0254_journal_otlp_bridge_opti;
 pub mod rr_0255_journal_otlp_bridge_vali;
+pub mod rr_0256_journal_otlp_bridge_expo;
