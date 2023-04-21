@@ -289,3 +289,4 @@ pub mod rr_0262_journal_otlp_bridge_hard;
 pub mod rr_0263_journal_otlp_bridge_wire;
 pub mod rr_0264_journal_otlp_bridge_opti;
 pub mod rr_0265_journal_otlp_bridge_vali;
+pub mod rr_0266_export_otlp_batches_exte;
