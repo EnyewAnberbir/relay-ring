@@ -24,3 +24,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0229: Journal index compaction optimize registry v14 (src)
 - RR-0241: Journal index compaction export adapter v26 (src)
 - RR-0253: Journal OTLP bridge wire planner v3 (src)
+- RR-0265: Journal OTLP bridge validate resolver v15 (src)
