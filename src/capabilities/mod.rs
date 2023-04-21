@@ -285,3 +285,4 @@ pub mod rr_0258_journal_otlp_bridge_refa;
 pub mod rr_0259_journal_otlp_bridge_benc;
 pub mod rr_0260_journal_otlp_bridge_impl;
 pub mod rr_0261_journal_otlp_bridge_exte;
+pub mod rr_0262_journal_otlp_bridge_hard;
