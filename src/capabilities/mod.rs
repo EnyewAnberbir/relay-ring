@@ -294,3 +294,4 @@ pub mod rr_0267_export_otlp_batches_hard;
 pub mod rr_0268_export_otlp_batches_wire;
 pub mod rr_0269_export_otlp_batches_opti;
 pub mod rr_0270_export_otlp_batches_vali;
+pub mod rr_0271_export_otlp_batches_expo;
