@@ -26,3 +26,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0253: Journal OTLP bridge wire planner v3 (src)
 - RR-0265: Journal OTLP bridge validate resolver v15 (src)
 - RR-0277: Export OTLP batches harden index v12 (src)
+- RR-0289: Export OTLP batches optimize registry v24 (src)
