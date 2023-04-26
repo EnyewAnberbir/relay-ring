@@ -330,3 +330,4 @@ pub mod rr_0303_gateway_agent_relay_wire;
 pub mod rr_0304_gateway_agent_relay_opti;
 pub mod rr_0305_gateway_agent_relay_vali;
 pub mod rr_0306_gateway_agent_relay_expo;
+pub mod rr_0307_gateway_agent_relay_inte;
