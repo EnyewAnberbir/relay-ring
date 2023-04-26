@@ -321,3 +321,4 @@ pub mod rr_0294_export_otlp_batches_benc;
 pub mod rr_0295_export_otlp_batches_impl;
 pub mod rr_0296_export_otlp_batches_exte;
 pub mod rr_0297_export_otlp_batches_hard;
+pub mod rr_0298_export_otlp_batches_wire;
