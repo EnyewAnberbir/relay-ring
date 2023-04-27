@@ -339,3 +339,4 @@ pub mod rr_0312_gateway_agent_relay_hard;
 pub mod rr_0313_gateway_agent_relay_wire;
 pub mod rr_0314_gateway_agent_relay_opti;
 pub mod rr_0315_gateway_agent_relay_vali;
+pub mod rr_0316_gateway_agent_relay_expo;
