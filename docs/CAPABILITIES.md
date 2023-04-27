@@ -28,3 +28,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0277: Export OTLP batches harden index v12 (src)
 - RR-0289: Export OTLP batches optimize registry v24 (src)
 - RR-0301: Gateway agent relay extend codec v1 (src)
+- RR-0313: Gateway agent relay wire planner v13 (src)
