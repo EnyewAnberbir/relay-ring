@@ -334,3 +334,4 @@ pub mod rr_0307_gateway_agent_relay_inte;
 pub mod rr_0308_gateway_agent_relay_refa;
 pub mod rr_0309_gateway_agent_relay_benc;
 pub mod rr_0310_gateway_agent_relay_impl;
+pub mod rr_0311_gateway_agent_relay_exte;
