@@ -343,3 +343,4 @@ pub mod rr_0316_gateway_agent_relay_expo;
 pub mod rr_0317_gateway_agent_relay_inte;
 pub mod rr_0318_gateway_agent_relay_refa;
 pub mod rr_0319_gateway_agent_relay_benc;
+pub mod rr_0320_gateway_agent_relay_impl;
