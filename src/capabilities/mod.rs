@@ -355,3 +355,4 @@ pub mod rr_0328_gateway_agent_relay_refa;
 pub mod rr_0329_gateway_agent_relay_benc;
 pub mod rr_0330_gateway_agent_relay_impl;
 pub mod rr_0331_gateway_agent_relay_exte;
+pub mod rr_0332_gateway_agent_relay_hard;
