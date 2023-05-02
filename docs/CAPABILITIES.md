@@ -31,3 +31,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0313: Gateway agent relay wire planner v13 (src)
 - RR-0325: Gateway agent relay validate resolver v25 (src)
 - RR-0337: Gate surfaces append seek harden index v2 (src)
+- RR-0349: Gate surfaces append seek optimize registry v14 (src)
