@@ -370,3 +370,4 @@ pub mod rr_0343_gate_surfaces_append_see;
 pub mod rr_0344_gate_surfaces_append_see;
 pub mod rr_0345_gate_surfaces_append_see;
 pub mod rr_0346_gate_surfaces_append_see;
+pub mod rr_0347_gate_surfaces_append_see;
