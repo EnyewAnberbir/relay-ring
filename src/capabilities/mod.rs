@@ -389,3 +389,4 @@ pub mod rr_0362_gate_surfaces_append_see;
 pub mod rr_0363_gate_surfaces_append_see;
 pub mod rr_0364_gate_surfaces_append_see;
 pub mod rr_0365_gate_surfaces_append_see;
+pub mod rr_0366_gate_surfaces_seal_index;
