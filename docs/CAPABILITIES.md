@@ -33,3 +33,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0337: Gate surfaces append seek harden index v2 (src)
 - RR-0349: Gate surfaces append seek optimize registry v14 (src)
 - RR-0361: Gate surfaces append seek export adapter v26 (src)
+- RR-0373: Gate surfaces seal index refactor mutator v8 (src)
