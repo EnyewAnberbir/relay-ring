@@ -405,3 +405,4 @@ pub mod rr_0378_gate_surfaces_seal_index;
 pub mod rr_0379_gate_surfaces_seal_index;
 pub mod rr_0380_gate_surfaces_seal_index;
 pub mod rr_0381_gate_surfaces_seal_index;
+pub mod rr_0382_gate_surfaces_seal_index;
