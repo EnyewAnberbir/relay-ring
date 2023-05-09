@@ -420,3 +420,4 @@ pub mod rr_0393_gate_surfaces_seal_index;
 pub mod rr_0394_gate_surfaces_seal_index;
 pub mod rr_0395_gate_surfaces_seal_index;
 pub mod rr_0396_gate_compact_checksum_ex;
+pub mod rr_0397_gate_compact_checksum_ex;

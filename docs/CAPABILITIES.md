@@ -35,3 +35,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0361: Gate surfaces append seek export adapter v26 (src)
 - RR-0373: Gate surfaces seal index refactor mutator v8 (src)
 - RR-0385: Gate surfaces seal index implement pipeline v20 (src)
+- RR-0397: Gate compact checksum export harden index v2 (src)
