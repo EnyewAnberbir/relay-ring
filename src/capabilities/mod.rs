@@ -429,3 +429,4 @@ pub mod rr_0402_gate_compact_checksum_ex;
 pub mod rr_0403_gate_compact_checksum_ex;
 pub mod rr_0404_gate_compact_checksum_ex;
 pub mod rr_0405_gate_compact_checksum_ex;
+pub mod rr_0406_gate_compact_checksum_ex;
