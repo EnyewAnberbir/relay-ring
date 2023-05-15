@@ -38,3 +38,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0397: Gate compact checksum export harden index v2 (src)
 - RR-0409: Gate compact checksum export optimize registry v14 (src)
 - RR-0421: Gate compact checksum export export adapter v26 (src)
+- RR-0433: Gate gateway ack replay refactor mutator v8 (src)
