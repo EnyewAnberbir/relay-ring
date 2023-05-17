@@ -477,3 +477,4 @@ pub mod rr_0450_gate_gateway_ack_replay;
 pub mod rr_0451_gate_gateway_ack_replay;
 pub mod rr_0452_gate_gateway_ack_replay;
 pub mod rr_0453_gate_gateway_ack_replay;
+pub mod rr_0454_gate_gateway_ack_replay;
