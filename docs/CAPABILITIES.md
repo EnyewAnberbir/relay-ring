@@ -41,3 +41,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0433: Gate gateway ack replay refactor mutator v8 (src)
 - RR-0445: Gate gateway ack replay implement pipeline v20 (src)
 - RR-0457: Runtime telemetry config fuzz CLI harden index v2 (src)
+- RR-0469: Runtime telemetry config fuzz CLI optimize registry v14 (src)
