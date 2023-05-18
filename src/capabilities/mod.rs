@@ -482,3 +482,4 @@ pub mod rr_0455_gate_gateway_ack_replay;
 pub mod rr_0456_runtime_telemetry_config;
 pub mod rr_0457_runtime_telemetry_config;
 pub mod rr_0458_runtime_telemetry_config;
+pub mod rr_0459_runtime_telemetry_config;
