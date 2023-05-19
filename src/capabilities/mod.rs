@@ -494,3 +494,4 @@ pub mod rr_0467_runtime_telemetry_config;
 pub mod rr_0468_runtime_telemetry_config;
 pub mod rr_0469_runtime_telemetry_config;
 pub mod rr_0470_runtime_telemetry_config;
+pub mod rr_0471_runtime_telemetry_config;
