@@ -515,3 +515,4 @@ pub mod rr_0488_runtime_telemetry_config;
 pub mod rr_0489_runtime_telemetry_config;
 pub mod rr_0490_runtime_telemetry_config;
 pub mod rr_0491_runtime_telemetry_config;
+pub mod rr_0492_runtime_telemetry_config;
