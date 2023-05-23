@@ -525,3 +525,4 @@ pub mod rr_0498_runtime_telemetry_config;
 pub mod rr_0499_runtime_telemetry_config;
 pub mod rr_0500_runtime_telemetry_config;
 pub mod rr_0501_wire_format_rlrg_frames_extended;
+pub mod rr_0502_wire_format_rlrg_frames_extended;
