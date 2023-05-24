@@ -529,3 +529,4 @@ pub mod rr_0502_wire_format_rlrg_frames_extended;
 pub mod rr_0503_wire_format_rlrg_frames_extended;
 pub mod rr_0504_wire_format_rlrg_frames_extended;
 pub mod rr_0505_wire_format_rlrg_frames_extended;
+pub mod rr_0506_wire_format_rlrg_frames_extended;
