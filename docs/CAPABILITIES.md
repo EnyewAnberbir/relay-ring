@@ -44,3 +44,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0469: Runtime telemetry config fuzz CLI optimize registry v14 (src)
 - RR-0481: Runtime telemetry config fuzz CLI export adapter v26 (src)
 - RR-0493: Runtime telemetry config fuzz CLI refactor mutator v38 (src)
+- RR-0505: Extended: Wire format RLRG frames validate resolver v5 (src)
