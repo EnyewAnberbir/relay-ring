@@ -557,3 +557,4 @@ pub mod rr_0530_ring_buffer_core_validat_extended;
 pub mod rr_0531_ring_buffer_core_export_extended;
 pub mod rr_0532_ring_buffer_core_integra_extended;
 pub mod rr_0533_ring_buffer_core_refacto_extended;
+pub mod rr_0534_ring_buffer_core_benchma_extended;
