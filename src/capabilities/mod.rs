@@ -561,3 +561,4 @@ pub mod rr_0534_ring_buffer_core_benchma_extended;
 pub mod rr_0535_ring_buffer_core_impleme_extended;
 pub mod rr_0536_ring_buffer_core_extend_extended;
 pub mod rr_0537_ring_buffer_core_harden_extended;
+pub mod rr_0538_ring_buffer_core_wire_pl_extended;
