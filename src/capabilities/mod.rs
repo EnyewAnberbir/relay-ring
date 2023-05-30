@@ -565,3 +565,4 @@ pub mod rr_0538_ring_buffer_core_wire_pl_extended;
 pub mod rr_0539_ring_buffer_core_optimiz_extended;
 pub mod rr_0540_ring_buffer_core_validat_extended;
 pub mod rr_0541_ring_buffer_core_export_extended;
+pub mod rr_0542_ring_buffer_core_integra_extended;
