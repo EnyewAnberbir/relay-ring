@@ -580,3 +580,4 @@ pub mod rr_0553_ring_buffer_core_refacto_extended;
 pub mod rr_0554_ring_buffer_core_benchma_extended;
 pub mod rr_0555_ring_buffer_core_impleme_extended;
 pub mod rr_0556_ring_buffer_core_extend_extended;
+pub mod rr_0557_ring_buffer_core_harden_extended;
