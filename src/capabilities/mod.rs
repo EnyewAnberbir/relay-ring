@@ -569,3 +569,4 @@ pub mod rr_0542_ring_buffer_core_integra_extended;
 pub mod rr_0543_ring_buffer_core_refacto_extended;
 pub mod rr_0544_ring_buffer_core_benchma_extended;
 pub mod rr_0545_ring_buffer_core_impleme_extended;
+pub mod rr_0546_ring_buffer_core_extend_extended;
