@@ -574,3 +574,4 @@ pub mod rr_0547_ring_buffer_core_harden_extended;
 pub mod rr_0548_ring_buffer_core_wire_pl_extended;
 pub mod rr_0549_ring_buffer_core_optimiz_extended;
 pub mod rr_0550_ring_buffer_core_validat_extended;
+pub mod rr_0551_ring_buffer_core_export_extended;
