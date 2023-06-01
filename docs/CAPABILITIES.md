@@ -49,3 +49,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0529: Extended: Ring buffer core optimize registry v4 (src)
 - RR-0541: Extended: Ring buffer core export adapter v16 (src)
 - RR-0553: Extended: Ring buffer core refactor mutator v28 (src)
+- RR-0565: Extended: Ring scan lattice modules validate resolver v5 (src)
