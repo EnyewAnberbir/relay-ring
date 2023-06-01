@@ -586,3 +586,4 @@ pub mod rr_0559_ring_buffer_core_optimiz_extended;
 pub mod rr_0560_ring_buffer_core_validat_extended;
 pub mod rr_0561_ring_scan_lattice_module_extended;
 pub mod rr_0562_ring_scan_lattice_module_extended;
+pub mod rr_0563_ring_scan_lattice_module_extended;
