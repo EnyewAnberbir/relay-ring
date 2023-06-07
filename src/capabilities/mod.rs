@@ -622,3 +622,4 @@ pub mod rr_0595_ring_scan_lattice_module_extended;
 pub mod rr_0596_ring_scan_lattice_module_extended;
 pub mod rr_0597_ring_scan_lattice_module_extended;
 pub mod rr_0598_ring_scan_lattice_module_extended;
+pub mod rr_0599_ring_scan_lattice_module_extended;
