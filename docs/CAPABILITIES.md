@@ -55,3 +55,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0601: Extended: Ring scan lattice modules extend codec v41 (src)
 - RR-0613: Extended: Ring scan lattice modules wire planner v53 (src)
 - RR-0625: Extended: Ring scan lattice modules validate resolver v65 (src)
+- RR-0637: Extended: Ring scan lattice modules integrate validator v77 (src)
