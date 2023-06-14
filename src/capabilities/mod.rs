@@ -670,3 +670,4 @@ pub mod rr_0643_ring_scan_lattice_module_extended;
 pub mod rr_0644_ring_scan_lattice_module_extended;
 pub mod rr_0645_ring_scan_lattice_module_extended;
 pub mod rr_0646_ring_batch_relay_helpers_extended;
+pub mod rr_0647_ring_batch_relay_helpers_extended;
