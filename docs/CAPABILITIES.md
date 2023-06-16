@@ -57,3 +57,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0625: Extended: Ring scan lattice modules validate resolver v65 (src)
 - RR-0637: Extended: Ring scan lattice modules integrate validator v77 (src)
 - RR-0649: Extended: Ring batch relay helpers optimize registry v4 (src)
+- RR-0661: Extended: Ring batch relay helpers export adapter v16 (src)
