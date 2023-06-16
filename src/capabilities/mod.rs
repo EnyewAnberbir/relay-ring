@@ -685,3 +685,4 @@ pub mod rr_0658_ring_batch_relay_helpers_extended;
 pub mod rr_0659_ring_batch_relay_helpers_extended;
 pub mod rr_0660_ring_batch_relay_helpers_extended;
 pub mod rr_0661_ring_batch_relay_helpers_extended;
+pub mod rr_0662_ring_batch_relay_helpers_extended;
