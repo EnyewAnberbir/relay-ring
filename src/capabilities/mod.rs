@@ -699,3 +699,4 @@ pub mod rr_0672_ring_batch_relay_helpers_extended;
 pub mod rr_0673_ring_batch_relay_helpers_extended;
 pub mod rr_0674_ring_batch_relay_helpers_extended;
 pub mod rr_0675_ring_batch_relay_helpers_extended;
+pub mod rr_0676_journal_append_seal_exte_extended;
