@@ -702,3 +702,4 @@ pub mod rr_0675_ring_batch_relay_helpers_extended;
 pub mod rr_0676_journal_append_seal_exte_extended;
 pub mod rr_0677_journal_append_seal_hard_extended;
 pub mod rr_0678_journal_append_seal_wire_extended;
+pub mod rr_0679_journal_append_seal_opti_extended;
