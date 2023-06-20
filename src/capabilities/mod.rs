@@ -709,3 +709,4 @@ pub mod rr_0682_journal_append_seal_inte_extended;
 pub mod rr_0683_journal_append_seal_refa_extended;
 pub mod rr_0684_journal_append_seal_benc_extended;
 pub mod rr_0685_journal_append_seal_impl_extended;
+pub mod rr_0686_journal_append_seal_exte_extended;
