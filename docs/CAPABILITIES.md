@@ -59,3 +59,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0649: Extended: Ring batch relay helpers optimize registry v4 (src)
 - RR-0661: Extended: Ring batch relay helpers export adapter v16 (src)
 - RR-0673: Extended: Ring batch relay helpers refactor mutator v28 (src)
+- RR-0685: Extended: Journal append seal implement pipeline v10 (src)
