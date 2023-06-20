@@ -705,3 +705,4 @@ pub mod rr_0678_journal_append_seal_wire_extended;
 pub mod rr_0679_journal_append_seal_opti_extended;
 pub mod rr_0680_journal_append_seal_vali_extended;
 pub mod rr_0681_journal_append_seal_expo_extended;
+pub mod rr_0682_journal_append_seal_inte_extended;
