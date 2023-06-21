@@ -721,3 +721,4 @@ pub mod rr_0694_journal_append_seal_benc_extended;
 pub mod rr_0695_journal_append_seal_impl_extended;
 pub mod rr_0696_journal_append_seal_exte_extended;
 pub mod rr_0697_journal_append_seal_hard_extended;
+pub mod rr_0698_journal_append_seal_wire_extended;
