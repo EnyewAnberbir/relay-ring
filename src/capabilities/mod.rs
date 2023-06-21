@@ -717,3 +717,4 @@ pub mod rr_0690_journal_append_seal_vali_extended;
 pub mod rr_0691_journal_append_seal_expo_extended;
 pub mod rr_0692_journal_append_seal_inte_extended;
 pub mod rr_0693_journal_append_seal_refa_extended;
+pub mod rr_0694_journal_append_seal_benc_extended;
