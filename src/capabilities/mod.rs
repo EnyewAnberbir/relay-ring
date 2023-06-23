@@ -732,3 +732,4 @@ pub mod rr_0705_journal_append_seal_impl_extended;
 pub mod rr_0706_journal_append_seal_exte_extended;
 pub mod rr_0707_journal_append_seal_hard_extended;
 pub mod rr_0708_journal_append_seal_wire_extended;
+pub mod rr_0709_journal_append_seal_opti_extended;

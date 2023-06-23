@@ -61,3 +61,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0673: Extended: Ring batch relay helpers refactor mutator v28 (src)
 - RR-0685: Extended: Journal append seal implement pipeline v10 (src)
 - RR-0697: Extended: Journal append seal harden index v22 (src)
+- RR-0709: Extended: Journal append seal optimize registry v34 (src)
