@@ -63,3 +63,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0697: Extended: Journal append seal harden index v22 (src)
 - RR-0709: Extended: Journal append seal optimize registry v34 (src)
 - RR-0721: Extended: Journal index compaction export adapter v6 (src)
+- RR-0733: Extended: Journal index compaction refactor mutator v18 (src)
