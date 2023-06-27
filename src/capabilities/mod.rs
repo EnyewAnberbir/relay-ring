@@ -748,3 +748,4 @@ pub mod rr_0721_journal_index_compaction_extended;
 pub mod rr_0722_journal_index_compaction_extended;
 pub mod rr_0723_journal_index_compaction_extended;
 pub mod rr_0724_journal_index_compaction_extended;
+pub mod rr_0725_journal_index_compaction_extended;
