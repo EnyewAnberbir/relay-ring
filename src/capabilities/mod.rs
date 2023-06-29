@@ -765,3 +765,4 @@ pub mod rr_0738_journal_index_compaction_extended;
 pub mod rr_0739_journal_index_compaction_extended;
 pub mod rr_0740_journal_index_compaction_extended;
 pub mod rr_0741_journal_index_compaction_extended;
+pub mod rr_0742_journal_index_compaction_extended;
