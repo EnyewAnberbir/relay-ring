@@ -65,3 +65,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0721: Extended: Journal index compaction export adapter v6 (src)
 - RR-0733: Extended: Journal index compaction refactor mutator v18 (src)
 - RR-0745: Extended: Journal index compaction implement pipeline v30 (src)
+- RR-0757: Extended: Journal OTLP bridge integrate validator v7 (src)
