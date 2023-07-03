@@ -784,3 +784,4 @@ pub mod rr_0757_journal_otlp_bridge_inte_extended;
 pub mod rr_0758_journal_otlp_bridge_refa_extended;
 pub mod rr_0759_journal_otlp_bridge_benc_extended;
 pub mod rr_0760_journal_otlp_bridge_impl_extended;
+pub mod rr_0761_journal_otlp_bridge_exte_extended;
