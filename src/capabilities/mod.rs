@@ -790,3 +790,4 @@ pub mod rr_0763_journal_otlp_bridge_wire_extended;
 pub mod rr_0764_journal_otlp_bridge_opti_extended;
 pub mod rr_0765_journal_otlp_bridge_vali_extended;
 pub mod rr_0766_export_otlp_batches_exte_extended;
+pub mod rr_0767_export_otlp_batches_hard_extended;
