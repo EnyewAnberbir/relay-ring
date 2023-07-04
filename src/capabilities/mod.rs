@@ -799,3 +799,4 @@ pub mod rr_0772_export_otlp_batches_inte_extended;
 pub mod rr_0773_export_otlp_batches_refa_extended;
 pub mod rr_0774_export_otlp_batches_benc_extended;
 pub mod rr_0775_export_otlp_batches_impl_extended;
+pub mod rr_0776_export_otlp_batches_exte_extended;
