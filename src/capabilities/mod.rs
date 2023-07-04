@@ -802,3 +802,4 @@ pub mod rr_0775_export_otlp_batches_impl_extended;
 pub mod rr_0776_export_otlp_batches_exte_extended;
 pub mod rr_0777_export_otlp_batches_hard_extended;
 pub mod rr_0778_export_otlp_batches_wire_extended;
+pub mod rr_0779_export_otlp_batches_opti_extended;
