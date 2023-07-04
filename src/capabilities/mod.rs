@@ -795,3 +795,4 @@ pub mod rr_0768_export_otlp_batches_wire_extended;
 pub mod rr_0769_export_otlp_batches_opti_extended;
 pub mod rr_0770_export_otlp_batches_vali_extended;
 pub mod rr_0771_export_otlp_batches_expo_extended;
+pub mod rr_0772_export_otlp_batches_inte_extended;
