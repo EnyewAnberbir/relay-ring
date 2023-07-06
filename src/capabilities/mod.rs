@@ -820,3 +820,4 @@ pub mod rr_0793_export_otlp_batches_refa_extended;
 pub mod rr_0794_export_otlp_batches_benc_extended;
 pub mod rr_0795_export_otlp_batches_impl_extended;
 pub mod rr_0796_export_otlp_batches_exte_extended;
+pub mod rr_0797_export_otlp_batches_hard_extended;
