@@ -824,3 +824,4 @@ pub mod rr_0797_export_otlp_batches_hard_extended;
 pub mod rr_0798_export_otlp_batches_wire_extended;
 pub mod rr_0799_export_otlp_batches_opti_extended;
 pub mod rr_0800_export_otlp_batches_vali_extended;
+pub mod rr_0801_gateway_agent_relay_exte_extended;
