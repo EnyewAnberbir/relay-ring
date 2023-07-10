@@ -832,3 +832,4 @@ pub mod rr_0805_gateway_agent_relay_vali_extended;
 pub mod rr_0806_gateway_agent_relay_expo_extended;
 pub mod rr_0807_gateway_agent_relay_inte_extended;
 pub mod rr_0808_gateway_agent_relay_refa_extended;
+pub mod rr_0809_gateway_agent_relay_benc_extended;
