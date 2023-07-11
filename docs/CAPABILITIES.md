@@ -70,3 +70,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0781: Extended: Export OTLP batches export adapter v16 (src)
 - RR-0793: Extended: Export OTLP batches refactor mutator v28 (src)
 - RR-0805: Extended: Gateway agent relay validate resolver v5 (src)
+- RR-0817: Extended: Gateway agent relay integrate validator v17 (src)
