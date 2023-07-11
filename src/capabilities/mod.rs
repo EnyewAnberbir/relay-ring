@@ -845,3 +845,4 @@ pub mod rr_0818_gateway_agent_relay_refa_extended;
 pub mod rr_0819_gateway_agent_relay_benc_extended;
 pub mod rr_0820_gateway_agent_relay_impl_extended;
 pub mod rr_0821_gateway_agent_relay_exte_extended;
+pub mod rr_0822_gateway_agent_relay_hard_extended;
