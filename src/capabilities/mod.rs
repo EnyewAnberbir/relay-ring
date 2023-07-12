@@ -856,3 +856,4 @@ pub mod rr_0829_gateway_agent_relay_benc_extended;
 pub mod rr_0830_gateway_agent_relay_impl_extended;
 pub mod rr_0831_gateway_agent_relay_exte_extended;
 pub mod rr_0832_gateway_agent_relay_hard_extended;
+pub mod rr_0833_gateway_agent_relay_wire_extended;
