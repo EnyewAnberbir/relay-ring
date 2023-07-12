@@ -858,3 +858,4 @@ pub mod rr_0831_gateway_agent_relay_exte_extended;
 pub mod rr_0832_gateway_agent_relay_hard_extended;
 pub mod rr_0833_gateway_agent_relay_wire_extended;
 pub mod rr_0834_gateway_agent_relay_opti_extended;
+pub mod rr_0835_gateway_agent_relay_vali_extended;
