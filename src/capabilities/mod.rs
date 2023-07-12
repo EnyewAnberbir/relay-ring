@@ -850,3 +850,4 @@ pub mod rr_0823_gateway_agent_relay_wire_extended;
 pub mod rr_0824_gateway_agent_relay_opti_extended;
 pub mod rr_0825_gateway_agent_relay_vali_extended;
 pub mod rr_0826_gateway_agent_relay_expo_extended;
+pub mod rr_0827_gateway_agent_relay_inte_extended;
