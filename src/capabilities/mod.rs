@@ -866,3 +866,4 @@ pub mod rr_0839_gate_surfaces_append_see_extended;
 pub mod rr_0840_gate_surfaces_append_see_extended;
 pub mod rr_0841_gate_surfaces_append_see_extended;
 pub mod rr_0842_gate_surfaces_append_see_extended;
+pub mod rr_0843_gate_surfaces_append_see_extended;
