@@ -861,3 +861,4 @@ pub mod rr_0834_gateway_agent_relay_opti_extended;
 pub mod rr_0835_gateway_agent_relay_vali_extended;
 pub mod rr_0836_gate_surfaces_append_see_extended;
 pub mod rr_0837_gate_surfaces_append_see_extended;
+pub mod rr_0838_gate_surfaces_append_see_extended;
