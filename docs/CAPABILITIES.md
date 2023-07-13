@@ -72,3 +72,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0805: Extended: Gateway agent relay validate resolver v5 (src)
 - RR-0817: Extended: Gateway agent relay integrate validator v17 (src)
 - RR-0829: Extended: Gateway agent relay benchmark reporter v29 (src)
+- RR-0841: Extended: Gate surfaces append seek export adapter v6 (src)
