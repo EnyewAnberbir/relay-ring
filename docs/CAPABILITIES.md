@@ -74,3 +74,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0829: Extended: Gateway agent relay benchmark reporter v29 (src)
 - RR-0841: Extended: Gate surfaces append seek export adapter v6 (src)
 - RR-0853: Extended: Gate surfaces append seek refactor mutator v18 (src)
+- RR-0865: Extended: Gate surfaces append seek implement pipeline v30 (src)
