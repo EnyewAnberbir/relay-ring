@@ -890,3 +890,4 @@ pub mod rr_0863_gate_surfaces_append_see_extended;
 pub mod rr_0864_gate_surfaces_append_see_extended;
 pub mod rr_0865_gate_surfaces_append_see_extended;
 pub mod rr_0866_gate_surfaces_seal_index_extended;
+pub mod rr_0867_gate_surfaces_seal_index_extended;
