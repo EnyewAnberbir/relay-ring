@@ -922,3 +922,4 @@ pub mod rr_0895_gate_surfaces_seal_index_extended;
 pub mod rr_0896_gate_compact_checksum_ex_extended;
 pub mod rr_0897_gate_compact_checksum_ex_extended;
 pub mod rr_0898_gate_compact_checksum_ex_extended;
+pub mod rr_0899_gate_compact_checksum_ex_extended;
