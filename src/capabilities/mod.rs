@@ -926,3 +926,4 @@ pub mod rr_0899_gate_compact_checksum_ex_extended;
 pub mod rr_0900_gate_compact_checksum_ex_extended;
 pub mod rr_0901_gate_compact_checksum_ex_extended;
 pub mod rr_0902_gate_compact_checksum_ex_extended;
+pub mod rr_0903_gate_compact_checksum_ex_extended;
