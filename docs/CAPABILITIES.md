@@ -77,3 +77,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0865: Extended: Gate surfaces append seek implement pipeline v30 (src)
 - RR-0877: Extended: Gate surfaces seal index harden index v12 (src)
 - RR-0889: Extended: Gate surfaces seal index optimize registry v24 (src)
+- RR-0901: Extended: Gate compact checksum export export adapter v6 (src)
