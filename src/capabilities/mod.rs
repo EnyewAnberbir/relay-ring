@@ -939,3 +939,4 @@ pub mod rr_0912_gate_compact_checksum_ex_extended;
 pub mod rr_0913_gate_compact_checksum_ex_extended;
 pub mod rr_0914_gate_compact_checksum_ex_extended;
 pub mod rr_0915_gate_compact_checksum_ex_extended;
+pub mod rr_0916_gate_compact_checksum_ex_extended;
