@@ -79,3 +79,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0889: Extended: Gate surfaces seal index optimize registry v24 (src)
 - RR-0901: Extended: Gate compact checksum export export adapter v6 (src)
 - RR-0913: Extended: Gate compact checksum export refactor mutator v18 (src)
+- RR-0925: Extended: Gate compact checksum export implement pipeline v30 (src)
