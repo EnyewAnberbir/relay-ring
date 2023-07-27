@@ -953,3 +953,4 @@ pub mod rr_0926_gate_gateway_ack_replay_extended;
 pub mod rr_0927_gate_gateway_ack_replay_extended;
 pub mod rr_0928_gate_gateway_ack_replay_extended;
 pub mod rr_0929_gate_gateway_ack_replay_extended;
+pub mod rr_0930_gate_gateway_ack_replay_extended;
