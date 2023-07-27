@@ -950,3 +950,4 @@ pub mod rr_0923_gate_compact_checksum_ex_extended;
 pub mod rr_0924_gate_compact_checksum_ex_extended;
 pub mod rr_0925_gate_compact_checksum_ex_extended;
 pub mod rr_0926_gate_gateway_ack_replay_extended;
+pub mod rr_0927_gate_gateway_ack_replay_extended;
