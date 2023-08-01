@@ -979,3 +979,4 @@ pub mod rr_0952_gate_gateway_ack_replay_extended;
 pub mod rr_0953_gate_gateway_ack_replay_extended;
 pub mod rr_0954_gate_gateway_ack_replay_extended;
 pub mod rr_0955_gate_gateway_ack_replay_extended;
+pub mod rr_0956_runtime_telemetry_config_extended;
