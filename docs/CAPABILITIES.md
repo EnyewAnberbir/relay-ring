@@ -81,3 +81,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0913: Extended: Gate compact checksum export refactor mutator v18 (src)
 - RR-0925: Extended: Gate compact checksum export implement pipeline v30 (src)
 - RR-0937: Extended: Gate gateway ack replay harden index v12 (src)
+- RR-0949: Extended: Gate gateway ack replay optimize registry v24 (src)
