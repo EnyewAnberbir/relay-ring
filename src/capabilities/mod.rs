@@ -1000,3 +1000,4 @@ pub mod rr_0973_runtime_telemetry_config_extended;
 pub mod rr_0974_runtime_telemetry_config_extended;
 pub mod rr_0975_runtime_telemetry_config_extended;
 pub mod rr_0976_runtime_telemetry_config_extended;
+pub mod rr_0977_runtime_telemetry_config_extended;
