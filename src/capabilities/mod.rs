@@ -1022,3 +1022,4 @@ pub mod rr_0995_runtime_telemetry_config_extended;
 pub mod rr_0996_runtime_telemetry_config_extended;
 pub mod rr_0997_runtime_telemetry_config_extended;
 pub mod rr_0998_runtime_telemetry_config_extended;
+pub mod rr_0999_runtime_telemetry_config_extended;
