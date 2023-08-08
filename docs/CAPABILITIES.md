@@ -85,3 +85,4 @@ Tracked rollout of the RLRG relay-ring journal frame capability modules under `s
 - RR-0961: Extended: Runtime telemetry config fuzz CLI export adapter v6 (src)
 - RR-0973: Extended: Runtime telemetry config fuzz CLI refactor mutator v18 (src)
 - RR-0985: Extended: Runtime telemetry config fuzz CLI implement pipeline v30 (src)
+- RR-0997: Extended: Runtime telemetry config fuzz CLI harden index v42 (src)
