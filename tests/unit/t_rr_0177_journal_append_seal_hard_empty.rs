@@ -1,0 +1,7 @@
+//! Integration test for `RR-0177` (empty).
+//! Journal append seal harden index v2 — RLRG relay-ring journal frame fixtures.
+
+#[test]
+fn rr_0177_journal_append_seal_hard_empty() {
+    assert!(relayring::capabilities::rr_0177_journal_append_seal_hard::evaluate(&[]).is_err(), "RR-0177: empty input must fail for Journal append seal harden index v2");
+}
