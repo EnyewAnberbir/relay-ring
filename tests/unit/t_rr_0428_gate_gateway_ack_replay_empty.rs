@@ -1,0 +1,7 @@
+//! Integration test for `RR-0428` (empty).
+//! Gate gateway ack replay wire planner v3 — RLRG relay-ring journal frame fixtures.
+
+#[test]
+fn rr_0428_gate_gateway_ack_replay_empty() {
+    assert!(relayring::capabilities::rr_0428_gate_gateway_ack_replay::evaluate(&[]).is_err(), "RR-0428: empty input must fail for Gate gateway ack replay wire planner v3");
+}
