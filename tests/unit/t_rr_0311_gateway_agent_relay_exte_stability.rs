@@ -1,0 +1,15 @@
+//! Integration test for `RR-0311` (stability).
+//! Gateway agent relay extend codec v11 — RLRG relay-ring journal frame fixtures.
+
+#[test]
+fn rr_0311_gateway_agent_relay_exte_stability() {
+    let fixture: &[u8] = &[0x52, 0x4c, 0x52, 0x47, 0x01, 0x00, 0x00, 0x00, 0x01, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x01, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x3c, 0x3e];
+    let full = relayring::capabilities::rr_0311_gateway_agent_relay_exte::evaluate(fixture).expect("RR-0311: bulk Gateway agent relay extend codec v11");
+    for end in (fixture.len() / 2)..=fixture.len() {
+        let partial = relayring::capabilities::rr_0311_gateway_agent_relay_exte::evaluate(&fixture[..end]).expect("RR-0311: stable prefix");
+        assert!(partial.consumed <= end, "RR-0311: consumed must not exceed prefix length");
+        if end == fixture.len() {
+            assert_eq!(partial.checksum, full.checksum, "RR-0311: full prefix should match bulk checksum");
+        }
+    }
+}
