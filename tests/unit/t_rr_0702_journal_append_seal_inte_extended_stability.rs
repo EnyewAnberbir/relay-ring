@@ -1,0 +1,15 @@
+//! Integration test for `RR-0702` (stability).
+//! Extended: Journal append seal integrate validator v27 — RLRG relay-ring journal frame fixtures.
+
+#[test]
+fn rr_0702_journal_append_seal_inte_extended_stability() {
+    let fixture: &[u8] = &[0x52, 0x4c, 0x52, 0x47, 0x01, 0x00, 0x00, 0x00, 0x01, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x01, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0xc5, 0xc7];
+    let full = relayring::capabilities::rr_0702_journal_append_seal_inte_extended::evaluate(fixture).expect("RR-0702: bulk Extended: Journal append seal integrate validator v27");
+    for end in (fixture.len() / 2)..=fixture.len() {
+        let partial = relayring::capabilities::rr_0702_journal_append_seal_inte_extended::evaluate(&fixture[..end]).expect("RR-0702: stable prefix");
+        assert!(partial.consumed <= end, "RR-0702: consumed must not exceed prefix length");
+        if end == fixture.len() {
+            assert_eq!(partial.checksum, full.checksum, "RR-0702: full prefix should match bulk checksum");
+        }
+    }
+}
