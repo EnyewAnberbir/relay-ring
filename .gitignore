@@ -1,3 +1,6 @@
 target/
 fuzz/target/
 *.profraw
+validation/
+pocs/
+*.lcov

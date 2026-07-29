@@ -7,6 +7,8 @@ pub mod gates { pub mod agent_ack; pub mod checksum_lane; pub mod compact_pass; 
 pub mod runtime { pub mod sequencer; pub mod shipper; pub mod indexer; pub mod replayer; }
 pub mod wire { pub mod frame; pub mod decode; pub mod encode; pub mod validate; }
 pub mod telemetry { pub mod journal_report; }
+pub mod export_views;
+pub mod journal_workflow;
 pub mod config { pub mod hot_ring; pub mod cold_archive; pub mod otlp_batch; pub mod agent_edge; pub mod compact_lazy; pub mod fsync_strict; pub mod registry; }
 
 // capabilities subsystem (project extension)

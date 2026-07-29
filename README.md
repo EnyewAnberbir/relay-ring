@@ -22,7 +22,9 @@
 
     ## Fuzz harnesses
 
-    `stream_fuzzer`, `state_fuzzer`, `recovery_fuzzer`, `journal_fuzzer`
+    `journal_fuzzer`, `stream_fuzzer`, `state_fuzzer`, `recovery_fuzzer` — each feeds
+    `journal_workflow::process_journal_bytes` (decode → derived views → seal/compact
+    rebuild rounds → late export/audit/materialize/recovery observers).
 
     ## CLI
 

@@ -4,7 +4,7 @@ fuzzing_engines:
 sanitizers:
   - address
 fuzz_targets:
+  - journal_fuzzer
   - stream_fuzzer
   - state_fuzzer
   - recovery_fuzzer
-  - journal_fuzzer
